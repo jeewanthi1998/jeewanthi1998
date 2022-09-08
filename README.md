@@ -1,6 +1,6 @@
 ### Hi there!I'm Jeewanthi..👋
 
-<h3 align="center">🎓 I'm a 3rd year Computer Science undergrad at University of Colombo School of Computing.</h3>
+<h3 align="left">🎓 I'm a 3rd year Computer Science undergrad at University of Colombo School of Computing.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
